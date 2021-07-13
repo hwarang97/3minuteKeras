@@ -8,6 +8,7 @@ DNN_image_classification.main()
 
 
 """
-여기가 새로 해보는 코드!!!!
-print('Hello world!")
+프로젝트에 문제가 있는지 확인해보는중
 """
+
+print('hello world')
